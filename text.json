@@ -1,0 +1,7 @@
+{
+    "modelID":"meta.llama2-70b-chat-v1",
+    "contentType":"application/json",
+    "accept":"application/json",
+    "body":"{\"prompt\":\"[INST]you are a very inteligent bot with execeptional cretical questions answers.\",\"max_gen_len\":512,\"temprature\":0.5,\"top_p\":0.9}"
+}
+
